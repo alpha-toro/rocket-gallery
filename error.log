@@ -1,0 +1,2 @@
+[24-Nov-2021 08:13:11 America/Chicago] PHP Warning:  require_once(//modx/core/model/modx/modx.class.php): failed to open stream: No such file or directory in /www/rocket-galleries/_build/build.transport.php on line 56
+[24-Nov-2021 08:13:11 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '//modx/core/model/modx/modx.class.php' (include_path='.:/usr/share/php') in /www/rocket-galleries/_build/build.transport.php on line 56

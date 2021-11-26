@@ -1,0 +1,10 @@
+Changelog for RocketGallery.
+
+
+RocketGallery 1.0.1 rc1
+==============
+- Adjusting chunk setup
+
+RocketGallery 1.0.0 rc1
+==============
+- Initial release.
